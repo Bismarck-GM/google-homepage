@@ -1,0 +1,43 @@
+body, html {
+    font-size: small;
+}
+body {
+    background: #fff;
+    color: #222;
+}
+body, td, a, p, .h {
+    font-family: arial,sans-serif;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
+#main-image {
+    padding-top: 0;
+    height: 233px;
+    margin-top: 89px;
+
+}
+
+div#viewport {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+#viewport {
+    min-height: 100%;
+    position: relative;
+    width: 100%;
+}
+.big .ctr-p {
+    min-width: 1139px;
+}
+.ctr-p {
+    margin: 0 auto;
+    min-width: 980px;
+}
+#logo {
+    padding-top:109px;
+    width:"272";
+    height:"92"
+}
